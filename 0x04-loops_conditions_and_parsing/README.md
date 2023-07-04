@@ -1,9 +1,10 @@
-<h1>**0x04. Loops, conditions and parsing**<h1>
-*DevOps*	*Shell*		*Bash*		*Scripting*
-
-**Background Context**
+0x04. Loops, conditions and parsing
 =
-**Resources**
+DevOps		Shell		Bash		Scripting
+
+Background Context
+=
+Resources
 =
 *Read or watch:*
 -
@@ -13,8 +14,8 @@
 - [File test operators](https://intranet.alxswe.com/rltoken/g8of2ABPEJfCNtPrDQaqVw)
 - [Make your scripts portable](https://intranet.alxswe.com/rltoken/O0Ay21p7tDhfLMsYbtAKug)
 
-*##man or help:*
-
+man or help:
+-
 - env
 - cut
 - for
@@ -22,10 +23,11 @@
 - until
 - if
 
-<h1>**Learning Objectives**<h1>
+Learning Objectives
+=
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/UnkzDNdH09TFJ0-Y56azyg), without the help of Google:
 
-**General**
+General
 =
 - How to create SSH keys
 - What is the advantage of using #!/usr/bin/env bash over #!/bin/bash
@@ -34,9 +36,9 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to use the cut command
 - What are files and other comparison operators, and how to use them
 
-**Requirements**
+Requirements
 =
-*General*
+General
 -
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted on Ubuntu 20.04 LTS
@@ -48,19 +50,27 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The first line of all your Bash scripts should be exactly #!/usr/bin/env bash
 - The second line of all your Bash scripts should be a comment explaining what is the script doing
 
-**Copyright - Plagiarism**
+Copyright - Plagiarism
+=
 - You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 - You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
 - You are not allowed to publish any content of this project.
 - Any form of plagiarism is strictly forbidden and will result in removal from the program.
 
 **More Info**
-*Shellcheck*
+
 [Shellcheck](https://www.shellcheck.net/) is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. Shellcheck is your friend! All your Bash scripts must pass Shellcheck without any error or you will not get any points on the task.
 
 Shellcheck is available on the school’s computers. If you want to use it on your own computer, here is how to [install it](https://intranet.alxswe.com/rltoken/jbz0_-i3TV3WpKgxhyrtpA).
 
 Examples:
+Not passing shellcheck: 
+![fail](shellcheck fail.jpg)
+
+Passing shellcheck:
+![pass](shellcheck pass.jpg)
+
+
 
 
 
