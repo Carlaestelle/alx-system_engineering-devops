@@ -78,7 +78,7 @@ Tasks
 
 <table>
 <tr>
-<td>**0. Create a SSH RSA key pair**</td>
+<td>0. Create a SSH RSA key paiR</td>
 </tr>
 <tr>
 <td>
@@ -103,7 +103,7 @@ Requirements:
 </tr>
 
 <table>
-<tr><td>**1. For Best School loop**</td></tr>
+<tr><td>1. For Best School loop</td></tr>
 <tr>
 <td>
 Write a Bash script that displays Best School 10 times.
@@ -111,6 +111,8 @@ Write a Bash script that displays Best School 10 times.
 Requirement:
 
 - You must use the for loop (while and until are forbidden)
+<table>
+<tr>
 ```
 sylvain@ubuntu$ head -n 2 1-for_best_school 
 #!/usr/bin/env bash
@@ -128,8 +130,85 @@ Best School
 Best School
 sylvain@ubuntu$ 
 ```
+</tr>
+</table>
 Note that:
 
 - The first line of my Bash script starts with #!/usr/bin/env bash
 - The second line of my Bash scripts is a comment explaining what it is doing
 </td></tr>
+</table>
+
+<table><tr><td>
+Write a Bash script that displays Best School 10 times.
+
+Requirements:
+
+- You must use the while loop (for and until are forbidden)
+<table><tr>
+```
+sylvain@ubuntu$ ./2-while_best_school
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+sylvain@ubuntu$ 
+```
+</tr></table>
+</td></tr></table>
+Write a Bash script that displays Best School 10 times.
+
+Requirements:
+
+- You must use the until loop (for and while are forbidden)
+<table><tr>
+```
+sylvain@ubuntu$ ./3-until_best_school
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+sylvain@ubuntu$ 
+```
+</tr></table>
+<table><tr><td>
+
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
+<table><tr><td>
+</td></tr></table>
