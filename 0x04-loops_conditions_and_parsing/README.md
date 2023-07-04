@@ -1,4 +1,4 @@
-i0x04. Loops, conditions and parsing
+0x04. Loops, conditions and parsing
 =
 DevOps, Shell, Bash, Scripting
 
@@ -78,7 +78,7 @@ Tasks
 
 <table>
 <tr>
-<td>0. Create a SSH RSA key pair</td>
+<td>**0. Create a SSH RSA key pair**</td>
 </tr>
 <tr>
 <td>
@@ -102,4 +102,34 @@ Requirements:
 </td>
 </tr>
 
+<table>
+<tr><td>**1. For Best School loop**</td></tr>
+<tr>
+<td>
+Write a Bash script that displays Best School 10 times.
 
+Requirement:
+
+- You must use the for loop (while and until are forbidden)
+```
+sylvain@ubuntu$ head -n 2 1-for_best_school 
+#!/usr/bin/env bash
+# This script is displaying "Best School" 10 times
+sylvain@ubuntu$ ./1-for_best_school 
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+Best School
+sylvain@ubuntu$ 
+```
+Note that:
+
+- The first line of my Bash script starts with #!/usr/bin/env bash
+- The second line of my Bash scripts is a comment explaining what it is doing
+</td></tr>
