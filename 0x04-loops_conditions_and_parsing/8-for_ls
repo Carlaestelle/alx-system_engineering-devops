@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# Displays the content of current dir in list format
+# Where on;y the part of the name after the first dash is displayed
+
+for i in `ls`
+do
+	echo "${i/*-/""}"
+done
