@@ -4,7 +4,7 @@
 # displays 9 and then "bad luck from Japan"
 # displays 17 and then "bad luck from Italy"
 
-i = 1
+i=1
 while ((i < 20))
 do
 	echo "$i"
