@@ -38,6 +38,7 @@ Open a terminal or command prompt on your local machine.
 NOTE :
 -
 - The screenshoots of completed level should be inside the dir `/root/alx-system_engineering-devops/command_line_for_the_win/`
+
 Manual QA Review
 -
 __It is your responsibility to request a review for this project from a peer. If no peers have been reviewed, you should request a review from a TA or staff member.__
@@ -48,6 +49,7 @@ Tasks
 <tr><td>0. First 九 tasks</td></tr>
 <tr><td>
 Complete the first 9 tasks.
+
 ---
 File: `0-first_9_tasks.jpg, 0-first_9_tasks.png`
 </td></tr></table>
@@ -55,6 +57,7 @@ File: `0-first_9_tasks.jpg, 0-first_9_tasks.png`
 <tr><td>1. Reach חי completed tasks</td></tr>
 <tr><td>
 Complete the 9 next tasks, getting to 18 total.
+
 ---
 File: `1-next_9_tasks.jpg,1-next_9_tasks.png`
 </td></tr></table>
@@ -62,6 +65,7 @@ File: `1-next_9_tasks.jpg,1-next_9_tasks.png`
 <tr><td>2. Reach the perfect cube, 27</td></tr>
 <tr><td>
 Complete the 9 next tasks, getting to 27 total.
+
 ---
 File: `2-next_9_tasks.jpg,2-next_9_tasks.png`
 </td></tr></table>
