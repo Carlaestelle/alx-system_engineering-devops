@@ -28,7 +28,7 @@ __It is your responsibility to request a review for your blog from a peer before
 Tasks
 =
 <table>
-<tr><th>0. What happens when...                                 </th></tr>
+<tr><td>0. What happens when...                                 </td></tr>
 <tr><td>
 This question is a classic and still widely used interview question for many types of software engineering position. It is used to assess a candidate’s general knowledge of how the web stack works on top of the internet. One important guideline to begin answering this question is that you should ask your interviewer whether they would like you to focus in on one specific area of the workflow. For a front-end position they may want you to talk at length about how the DOM is rendering. For an SRE position they may want you to go into the load balancing mechanism.
 
@@ -57,7 +57,7 @@ File: `0-blog_post`
 Advanced tasks
 =
 <table>
-<tr><th>1. Everything's better with a pretty diagram</th></tr>
+<tr><td>1. Everything's better with a pretty diagram</td></tr>
 <tr><td>
 Add a schema to your blog post illustrating the flow of the request created when you type `https://www.google.com` in your browser and press `Enter`.
 
@@ -86,7 +86,7 @@ File: `1-what_happen_when_diagram`
 </td></tr></table>
 
 <table>
-<tr><th>2. Contribute!</th></tr>
+<tr><td>2. Contribute!</td></tr>
 <tr><td>
 Folks on the Internet have been trying to put together a comprehensive answer to the question. Help them by submitting a pull request. Paste the link in your answer file.
 
