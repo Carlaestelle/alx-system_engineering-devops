@@ -2,7 +2,7 @@ Command line for the win
 =
 `Bash` `Scripting`
 
-[!CMD Challenge](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/324/06AChAO.png)
+![CMD Challenge](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/324/06AChAO.png)
 
 Background Context
 =
