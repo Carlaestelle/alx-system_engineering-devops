@@ -45,7 +45,7 @@ __It is your responsibility to request a review for this project from a peer. If
 
 Tasks
 =
-<table, 100%, 100%>
+<table>
 <tr><td>0. First 九 tasks</td></tr>
 <tr><td>
 Complete the first 9 tasks.
