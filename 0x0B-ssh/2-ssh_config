@@ -1,0 +1,4 @@
+Host 52.201.221.132
+	IdentityFile ~/.ssh/school
+	PubkeyAuthentication yes
+	PasswordAuthentication no
