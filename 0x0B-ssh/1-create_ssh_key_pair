@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ssh-keygen -t rsa -N "betty" -C "school" -f "betty" -b 4096
+ssh-keygen -t rsa -N "betty" -C "school" -f "school" -b 4096
